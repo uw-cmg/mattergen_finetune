@@ -1,6 +1,10 @@
 # Mattergen finetune
 A tutorial to finetune the generative AI model Mattergen on your own property data
 
+This repository is made using materials from the TMS 2025 AI for Materials Science and Engineering online course
+
+All content by Ryan Jacobs, Dane Morgan, Ben Afflerbach, University of Wisconsin-Madison, 2025.
+
 ## Run example notebooks in Google Colab:
 
 * Finetuning Mattergen on your own data: example of Na battery voltages:
